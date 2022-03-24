@@ -11,3 +11,4 @@ class Datapoint(models.Model):
     x = models.FloatField()
     y = models.FloatField()
     created_at = models.DateTimeField(auto_now_add=True)
+

@@ -1,126 +1,101 @@
-{% extends 'website/base.html' %}
+{% load static %}
 
-{% block title %}
-Index 
-{% endblock %}
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="{% static 'website/css/style.css' %}">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      <!--  <link type="text/css" rel="stylesheet" href="{% static 'website/css/materialize.css' %}"  media="screen,projection"/>-->
 
+       
 
-
-{% block content %}
-<div class="nav-content hoverable">
-    <ul class="tabs text-blue" style="text-emphasis-color: blue;">
-        <li class="tab"><a href="#tab1">Tab 1</a></li>
-        <li class="tab"><a href="#tab2">Tab 2</a></li>
-        <li class="tab"><a href="#tab3">Tab 3</a></li>
-    </ul>
-</div>
-<div class="divider"></div>
+        <title>SBB Bicycle Reservations</title>
 
 
-<div id="tab1">
-    <h1>Index</h1>
-    <p>You're at the index page.</p>
-    <p><a href="{% url 'website:data' %}">Have a look at the data!</a></p>
-    
-    <div class="card-panel blue lighten-3">This is a card-panel</div>
+    </head>
+    <body>
 
-<!-- Modal Trigger -->
-<a class="waves-effect waves-light btn modal-trigger" href="#modal1">Modal</a>
+        <header>
+            <nav>
+                <div style="float: left; background-color: white; padding: 10px"><img src="{% static 'website/images/sbblogo.svg' %}" ></div>
+                <a class="active" href="#home">Home</a>
+                <a href="#solution">Our Solution</a>
+                <a href="#why">Why it matters</a>
+                <a href="#about">About</a>
 
-<!-- Modal Structure -->
-<div id="modal1" class="modal">
-  <div class="modal-content">
-    <h4>Modal Header</h4>
-    <p>A bunch of text</p>
-  </div>
-  <div class="modal-footer">
-    <a href="#!" class="modal-close waves-effect waves-green btn-flat">Agree</a>
-  </div>
-</div>
-</div>
+            </nav>
+
+        </header>
+
+        <section id="home"> 
+            <div class="container">
+                <form action="/" method="post">
+                    {% csrf_token %}
+                    <label for="start">Start</label>
+                  <input type="text" id="start" name="start" placeholder="Enter your start location here..">
+              
+                  <label for="dest">Destination</label>
+                  <input type="text" id="dest" name="dest" placeholder="Enter your destination here..">
+              
+                  <label for="date">Travel Date</label>
+                  <input type="date" id="date" name="date" >
+                  <label for="time">Start Time</label>
+                  <input type="time" id="time" name="time" value="00:00">
+                
+                  <input type="submit" id="submit" value="Submit" />
+                </form>
+                </div>
+                {% if get_results %}
+                <div class="results">RESULTS!</div>
+                {% endif %}
+        </section>
+
+        <section id="solution"> <div style="position: absolute; height: 60%; width: 30%; margin-top: 10%" class="trapezoid">
+           <div style="position: absolute; display: block; top: 25%; left: -600%; color: white; width: 600%;">
+            A data-driven solution for better bicycle reservations.
+           </div> 
+    </div> 
+</section>
 
 
-<div id="tab2">
-        <div class="section">
-    <h5>Section 1</h5>
-    <p>Stuff</p>
-    </div>
-    <div class="divider"></div>
-    <div class="section">
-    <h5>Section 2</h5>
-    <p>Stuff</p>
-    </div>
-    <div class="divider"></div>
-    <div class="section">
-    <h5>Section 3</h5>
-    <p>Stuff</p>
-    </div>
-          
-</div>
+        <section id="why"> Why it matters </section>
 
-
-<div id="tab3">
-    <h1>A table</h1>
-    <table class="highlight">
-        <thead>
-          <tr>
-              <th>Name</th>
-              <th>Item Name</th>
-              <th>Item Price</th>
-          </tr>
-        </thead>
-
-        <tbody>
-          <tr>
-            <td>Alvin</td>
-            <td>Eclair</td>
-            <td>$0.87</td>
-          </tr>
-          <tr>
-            <td>Alan</td>
-            <td>Jellybean</td>
-            <td>$3.76</td>
-          </tr>
-          <tr>
-            <td>Jonathan</td>
-            <td>Lollipop</td>
-            <td>$7.00</td>
-          </tr>
-        </tbody>
-      </table>
-</div>
+        <section id="about"> About </section>
 
 
 
-<div class="fixed-action-btn">
-    <a class="btn-floating btn-large red">
-      <i class="large material-icons">mode_edit</i>
-    </a>
-    <ul>
-      <li><a class="btn-floating red"><i class="material-icons">insert_chart</i></a></li>
-      <li><a class="btn-floating yellow darken-1"><i class="material-icons">format_quote</i></a></li>
-      <li><a class="btn-floating green"><i class="material-icons">publish</i></a></li>
-      <li><a class="btn-floating blue"><i class="material-icons">attach_file</i></a></li>
-    </ul>
-  </div>
-      
-   
-           
+
+        <script>
 
 
+let section = document.querySelectorAll('section');
+let navLinks = document.querySelectorAll('header nav a');
+window.onscroll = () => {
+    section.forEach(sec => {
+        let top = window.scrollY;
+        let offset = sec.offsetTop;
+        let height = sec.offsetHeight;
+        let id = sec.getAttribute('id');
+
+        if(top >= offset && top < offset + height) {
+        navLinks.forEach(links => {
+            links.classList.remove('active');
+            document.querySelector('header nav a[href*=' + id + ']').classList.add('active');
+        });
+    };
+    });
+};
+
+        </script>
+
+    </body>
+        
+     <!--   <script type="text/javascript" src="{% static 'website/js/materialize.js' %}"></script>
+    cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js
+-->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+        <script type="text/javascript" src="{% static 'website/js/main.js' %}"></script>
 
       
-{% endblock %}
-
-{% block javascript %}
-<script>
-    document.addEventListener('DOMContentLoaded', function() {
-          var elems = document.querySelectorAll('.fixed-action-btn');
-          var instances = M.FloatingActionButton.init(elems, options);
-      });
-      document.addEventListener('DOMContentLoaded', function() {
-  var elems = document.querySelectorAll('.modal');
-  var instances = M.Modal.init(elems, options);
-});
-</script>
-{% endblock%}
+</html>
