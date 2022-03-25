@@ -8,7 +8,6 @@
       <!--  <link type="text/css" rel="stylesheet" href="{% static 'website/css/materialize.css' %}"  media="screen,projection"/>-->
 
        
-
         <title>SBB Bicycle Reservations</title>
 
 
@@ -29,13 +28,128 @@
 
         <section id="home"> 
             <div class="container">
-                <form action="/" method="post">
+                <form action="/" method="post" accept-charset="UTF-8">
                     {% csrf_token %}
                     <label for="start">Start</label>
-                  <input type="text" id="start" name="start" placeholder="Enter your start location here..">
-              
+                  <select id="start" name="start" >
+                    <option value="" disabled selected>Select the start location</option>
+                    <option value="Aarau">Aarau</option>
+                    <option value="Amriswil">Amriswil</option>
+                    <option value="Arth-Goldau">Arth-Goldau</option>
+                    <option value="Basel SBB">Basel SBB</option>
+                    <option value="Bellinzona">Bellinzona</option>
+                    <option value="Bern">Bern</option>
+                    <option value="Biasca">Biasca</option>
+                    <option value="Biel/Bienne">Biel/Bienne</option>
+                    <option value="Brig">Brig</option>
+                    <option value="Chiasso">Chiasso</option>
+                    <option value="Chur">Chur</option>
+                    <option value="Delémont">Delémont</option>
+                    <option value="Flawil">Flawil</option>
+                    <option value="Flüelen">Flüelen</option>
+                    <option value="Frauenfeld">Frauenfeld</option>
+                    <option value="Fribourg/Freiburg">Fribourg/Freiburg</option>
+                    <option value="Frutigen">Frutigen</option>
+                    <option value="Genève">Genève</option>
+                    <option value="Genève-Aéroport">Genève-Aéroport</option>
+                    <option value="Gossau SG">Gossau SG</option>
+                    <option value="Grenchen Nord">Grenchen Nord</option>
+                    <option value="Grenchen Süd">Grenchen Süd</option>
+                    <option value="Interlaken Ost">Interlaken Ost</option>
+                    <option value="Landquart">Landquart</option>
+                    <option value="Laufen">Laufen</option>
+                    <option value="Lausanne">Lausanne</option>
+                    <option value="Lenzburg">Lenzburg</option>
+                    <option value="Liestal">Liestal</option>
+                    <option value="Locarno">Locarno</option>
+                    <option value="Lugano">Lugano</option>
+                    <option value="Luzern">Luzern</option>
+                    <option value="Mendrisio">Mendrisio</option>
+                    <option value="Morges">Morges</option>
+                    <option value="Moutier">Moutier</option>
+                    <option value="Münsingen">Münsingen</option>
+                    <option value="Neuchâtel">Neuchâtel</option>
+                    <option value="Nyon">Nyon</option>
+                    <option value="Oensingen">Oensingen</option>
+                    <option value="Olten">Olten</option>
+                    <option value="Romanshorn">Romanshorn</option>
+                    <option value="Sargans">Sargans</option>
+                    <option value="Sissach">Sissach</option>
+                    <option value="Solothurn">Solothurn</option>
+                    <option value="Spiez">Spiez</option>
+                    <option value="St. Gallen">St. Gallen</option>
+                    <option value="Thun">Thun</option>
+                    <option value="Uzwil">Uzwil</option>
+                    <option value="Visp">Visp</option>
+                    <option value="Weinfelden">Weinfelden</option>
+                    <option value="Wil SG">Wil SG</option>
+                    <option value="Winterthur">Winterthur</option>
+                    <option value="Yverdon-les-Bains">Yverdon-les-Bains</option>
+                    <option value="Zug">Zug</option>
+                    <option value="Zürich Flughafen">Zürich Flughafen</option>
+                    <option value="Zürich HB">Zürich HB</option>
+                    <option value="Zürich Oerlikon">Zürich Oerlikon</option>
+                  </select>
                   <label for="dest">Destination</label>
-                  <input type="text" id="dest" name="dest" placeholder="Enter your destination here..">
+                  <select id="dest" name="dest" >
+                    <option value="" disabled selected>Select your target destination</option>
+                    <option value="Aarau">Aarau</option>
+                    <option value="Amriswil">Amriswil</option>
+                    <option value="Arth-Goldau">Arth-Goldau</option>
+                    <option value="Basel SBB">Basel SBB</option>
+                    <option value="Bellinzona">Bellinzona</option>
+                    <option value="Bern">Bern</option>
+                    <option value="Biasca">Biasca</option>
+                    <option value="Biel/Bienne">Biel/Bienne</option>
+                    <option value="Brig">Brig</option>
+                    <option value="Chiasso">Chiasso</option>
+                    <option value="Chur">Chur</option>
+                    <option value="Delémont">Delémont</option>
+                    <option value="Flawil">Flawil</option>
+                    <option value="Flüelen">Flüelen</option>
+                    <option value="Frauenfeld">Frauenfeld</option>
+                    <option value="Fribourg/Freiburg">Fribourg/Freiburg</option>
+                    <option value="Frutigen">Frutigen</option>
+                    <option value="Genève">Genève</option>
+                    <option value="Genève-Aéroport">Genève-Aéroport</option>
+                    <option value="Gossau SG">Gossau SG</option>
+                    <option value="Grenchen Nord">Grenchen Nord</option>
+                    <option value="Grenchen Süd">Grenchen Süd</option>
+                    <option value="Interlaken Ost">Interlaken Ost</option>
+                    <option value="Landquart">Landquart</option>
+                    <option value="Laufen">Laufen</option>
+                    <option value="Lausanne">Lausanne</option>
+                    <option value="Lenzburg">Lenzburg</option>
+                    <option value="Liestal">Liestal</option>
+                    <option value="Locarno">Locarno</option>
+                    <option value="Lugano">Lugano</option>
+                    <option value="Luzern">Luzern</option>
+                    <option value="Mendrisio">Mendrisio</option>
+                    <option value="Morges">Morges</option>
+                    <option value="Moutier">Moutier</option>
+                    <option value="Münsingen">Münsingen</option>
+                    <option value="Neuchâtel">Neuchâtel</option>
+                    <option value="Nyon">Nyon</option>
+                    <option value="Oensingen">Oensingen</option>
+                    <option value="Olten">Olten</option>
+                    <option value="Romanshorn">Romanshorn</option>
+                    <option value="Sargans">Sargans</option>
+                    <option value="Sissach">Sissach</option>
+                    <option value="Solothurn">Solothurn</option>
+                    <option value="Spiez">Spiez</option>
+                    <option value="St. Gallen">St. Gallen</option>
+                    <option value="Thun">Thun</option>
+                    <option value="Uzwil">Uzwil</option>
+                    <option value="Visp">Visp</option>
+                    <option value="Weinfelden">Weinfelden</option>
+                    <option value="Wil SG">Wil SG</option>
+                    <option value="Winterthur">Winterthur</option>
+                    <option value="Yverdon-les-Bains">Yverdon-les-Bains</option>
+                    <option value="Zug">Zug</option>
+                    <option value="Zürich Flughafen">Zürich Flughafen</option>
+                    <option value="Zürich HB">Zürich HB</option>
+                    <option value="Zürich Oerlikon">Zürich Oerlikon</option>
+                  </select>
               
                   <label for="date">Travel Date</label>
                   <input type="date" id="date" name="date" >
