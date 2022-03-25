@@ -63,13 +63,13 @@ opuic_lookup = {'Moutier': 8500105,
 
 
 def send_request(start, end, start_time):
+
+    print(start, end, start_time)
     AUTH_TOKEN = 'Bearer 57c5dbbbf1fe4d0001000018dc333f3fe02340138e090d6325923a19'
 
     xml = """<?xml version=\"1.0\" encoding=\"utf-8\"?> <OJP xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" xmlns=\"http://www.siri.org.uk/siri\" version=\"1.0\" xmlns:ojp=\"http://www.vdv.de/ojp\" xsi:schemaLocation=\"http://www.siri.org.uk/siri ../ojp-xsd-v1.0/OJP.xsd\">    <OJPRequest>        <ServiceRequest>            <RequestTimestamp>TIMESTAMP_ONE</RequestTimestamp>            <RequestorRef>API-Explorer</RequestorRef>            <ojp:OJPTripRequest>                <RequestTimestamp>TIMESTAMP_TWO</RequestTimestamp>                <ojp:Origin>                    <ojp:PlaceRef>                        <ojp:StopPlaceRef>START_OPUIC</ojp:StopPlaceRef>                        <ojp:LocationName>                            <ojp:Text>START_LOC</ojp:Text>                        </ojp:LocationName>                    </ojp:PlaceRef>                    <ojp:DepArrTime>START_TIME</ojp:DepArrTime>                </ojp:Origin>                <ojp:Destination>                    <ojp:PlaceRef>                        <ojp:StopPlaceRef>END_OPUIC</ojp:StopPlaceRef>                        <ojp:LocationName>                            <ojp:Text>END_LOC</ojp:Text>                        </ojp:LocationName>                    </ojp:PlaceRef>                </ojp:Destination>                <ojp:Params>                    <ojp:IncludeTrackSections>true</ojp:IncludeTrackSections>                    <ojp:IncludeTurnDescription></ojp:IncludeTurnDescription>                    <ojp:IncludeIntermediateStops>true</ojp:IncludeIntermediateStops>                </ojp:Params>            </ojp:OJPTripRequest>        </ServiceRequest>    </OJPRequest></OJP>"""
     xml = xml.replace('START_LOC', start)
     xml = xml.replace('END_LOC', end)
-
-    # TIMESTAMP_ONE, TIMESTAMP_TWO, START_OPUIC, END_OPUIC
 
     xml = xml.replace('START_OPUIC', str(opuic_lookup[start]))
     xml = xml.replace('END_OPUIC', str(opuic_lookup[end]))
@@ -157,5 +157,5 @@ def send_request(start, end, start_time):
 
 if __name__ == '__main__':
 
-    test_time = "2022-03-25T10:00:00"
-    print(send_request('Luzern', 'Chur', test_time))
+    test_time = "2022-07-10T10:00:00"
+    print(send_request('Genf', 'Zürich HB', test_time))

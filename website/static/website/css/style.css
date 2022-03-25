@@ -110,10 +110,24 @@ input[type=submit]:hover {
 
 .results {
     border-radius: 5px;
-    background-color:  #D2D2D2;
-    border-color:  #D2D2D2;
+    background-color:  #fafafa;
+    border-color:  #5e5c5c;
+    padding: 40px;
+    padding-bottom: 20px;
+    border-style: solid;
+    justify-content: center;
+    align-items: center;
+}
+
+.error {
+    border-radius: 5px;
+    background-color:  #e25c5c;
+    border-color:  #570404;
     padding: 40px;
     border-style: solid;
+    justify-content: center;
+    align-items: center;
+    color: white;
 }
 
 .trapezoid {
