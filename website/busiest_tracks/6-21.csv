@@ -1,0 +1,137 @@
+month,start_loc,end_loc,book_in_advance
+6,Bern,Zürich HB,32
+6,Bellinzona,Arth-Goldau,29
+6,Zürich HB,Bern,17
+6,Neuchâtel,Biel/Bienne,17
+6,Arth-Goldau,Bellinzona,16
+6,Thun,Bern,15
+6,Yverdon-les-Bains,Neuchâtel,13
+6,Zürich HB,Landquart,12
+6,Solothurn,Olten,11
+6,Zürich HB,Sargans,11
+6,Olten,Solothurn,10
+6,Biel/Bienne,Olten,10
+6,Sargans,Zürich HB,9
+6,Landquart,Zürich HB,9
+6,Olten,Biel/Bienne,8
+6,Fribourg/Freiburg,Bern,8
+6,Biel/Bienne,Solothurn,8
+6,Arth-Goldau,Zürich HB,7
+6,Neuchâtel,Yverdon-les-Bains,7
+6,Visp,Spiez,7
+6,Olten,Zürich HB,7
+6,Bellinzona,Zürich HB,6
+6,Zürich HB,Olten,6
+6,Visp,Bern,6
+6,Bern,Thun,5
+6,Genève,Morges,5
+6,Zürich HB,Arth-Goldau,5
+6,Solothurn,Biel/Bienne,5
+6,Basel SBB,Delémont,4
+6,Yverdon-les-Bains,Biel/Bienne,4
+6,Solothurn,Zürich HB,4
+6,Arth-Goldau,Luzern,4
+6,Arth-Goldau,Zug,4
+6,Biel/Bienne,Zürich HB,4
+6,Bellinzona,Luzern,4
+6,Biel/Bienne,Neuchâtel,4
+6,Zürich HB,Bellinzona,3
+6,Zug,Arth-Goldau,3
+6,Spiez,Bern,3
+6,Thun,Visp,3
+6,Lausanne,Fribourg/Freiburg,3
+6,Lausanne,Neuchâtel,3
+6,Luzern,Bellinzona,3
+6,Morges,Neuchâtel,3
+6,Neuchâtel,Aarau,3
+6,Solothurn,Aarau,3
+6,Oensingen,Olten,3
+6,Olten,Aarau,3
+6,Olten,Luzern,3
+6,Olten,Oensingen,3
+6,Biel/Bienne,Aarau,3
+6,Aarau,Olten,3
+6,Bern,Spiez,3
+6,Grenchen Süd,Zürich HB,3
+6,Aarau,Zürich HB,3
+6,Lugano,Arth-Goldau,2
+6,Visp,Thun,2
+6,Basel SBB,Biel/Bienne,2
+6,Zürich HB,Winterthur,2
+6,Biel/Bienne,Yverdon-les-Bains,2
+6,Biel/Bienne,Basel SBB,2
+6,Grenchen Süd,Solothurn,2
+6,Grenchen Süd,Olten,2
+6,Luzern,Basel SBB,2
+6,Luzern,Arth-Goldau,2
+6,Luzern,Olten,2
+6,Genève,Yverdon-les-Bains,2
+6,Spiez,Thun,2
+6,Arth-Goldau,Arth-Goldau,2
+6,Olten,Neuchâtel,2
+6,Flüelen,Arth-Goldau,2
+6,Zürich HB,Basel SBB,2
+6,Bellinzona,Basel SBB,2
+6,Bellinzona,Flüelen,2
+6,Bellinzona,Lugano,1
+6,Aarau,Aarau,1
+6,Aarau,Yverdon-les-Bains,1
+6,Bellinzona,Bellinzona,1
+6,Bellinzona,Zug,1
+6,Biel/Bienne,Biel/Bienne,1
+6,Arth-Goldau,Flüelen,1
+6,Genève,Biel/Bienne,1
+6,Genève,Olten,1
+6,Grenchen Süd,Biel/Bienne,1
+6,Interlaken Ost,Bern,1
+6,Lugano,Bellinzona,1
+6,Lugano,Luzern,1
+6,Lausanne,Bern,1
+6,Lausanne,Yverdon-les-Bains,1
+6,Morges,Biel/Bienne,1
+6,Morges,Yverdon-les-Bains,1
+6,Moutier,Basel SBB,1
+6,Neuchâtel,Solothurn,1
+6,Oensingen,Zürich HB,1
+6,Olten,Basel SBB,1
+6,Olten,Lugano,1
+6,Arth-Goldau,Lugano,1
+6,Fribourg/Freiburg,Zürich HB,1
+6,Olten,St. Gallen,1
+6,Frauenfeld,Weinfelden,1
+6,Biel/Bienne,Delémont,1
+6,Biel/Bienne,Grenchen Nord,1
+6,Biel/Bienne,Laufen,1
+6,Bern,Fribourg/Freiburg,1
+6,Bern,Visp,1
+6,Brig,Bern,1
+6,Basel SBB,Laufen,1
+6,Basel SBB,Lugano,1
+6,Basel SBB,Olten,1
+6,Basel SBB,Zürich HB,1
+6,Chur,Landquart,1
+6,Delémont,Biel/Bienne,1
+6,Delémont,Basel SBB,1
+6,Delémont,Laufen,1
+6,Frauenfeld,Winterthur,1
+6,Olten,Olten,1
+6,Sargans,Landquart,1
+6,Zürich HB,Thun,1
+6,Zürich HB,Solothurn,1
+6,St. Gallen,Zürich HB,1
+6,Zürich HB,St. Gallen,1
+6,Solothurn,Neuchâtel,1
+6,Spiez,Visp,1
+6,Weinfelden,Zürich HB,1
+6,Yverdon-les-Bains,Aarau,1
+6,Yverdon-les-Bains,Olten,1
+6,Yverdon-les-Bains,Solothurn,1
+6,Yverdon-les-Bains,Zürich HB,1
+6,Zürich Flughafen,Zürich HB,1
+6,Zug,Bellinzona,1
+6,Zug,Zug,1
+6,Zug,Zürich HB,1
+6,Zürich HB,Aarau,1
+6,Zürich HB,Chur,1
+6,Zürich HB,Lausanne,1
+6,Zürich HB,Neuchâtel,1

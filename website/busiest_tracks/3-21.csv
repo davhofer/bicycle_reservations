@@ -1,0 +1,16 @@
+month,start_loc,end_loc,book_in_advance
+3,Bellinzona,Arth-Goldau,5
+3,Bellinzona,Zug,2
+3,Biel/Bienne,Yverdon-les-Bains,1
+3,Arth-Goldau,Bellinzona,1
+3,Lugano,Olten,1
+3,Lugano,Zürich HB,1
+3,Lausanne,Yverdon-les-Bains,1
+3,Luzern,Lugano,1
+3,Solothurn,Olten,1
+3,Zug,Bellinzona,1
+3,Zürich HB,Bellinzona,1
+3,Zürich HB,Lugano,1
+3,Zürich HB,Olten,1
+3,Zürich HB,Solothurn,1
+3,Bellinzona,Luzern,1

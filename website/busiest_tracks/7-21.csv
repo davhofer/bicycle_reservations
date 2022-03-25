@@ -1,0 +1,185 @@
+month,start_loc,end_loc,book_in_advance
+7,Bellinzona,Arth-Goldau,67
+7,Bern,Zürich HB,60
+7,Zürich HB,Bern,51
+7,Yverdon-les-Bains,Neuchâtel,31
+7,Olten,Solothurn,27
+7,Zürich HB,Landquart,25
+7,Thun,Bern,22
+7,Arth-Goldau,Bellinzona,21
+7,Neuchâtel,Biel/Bienne,20
+7,Solothurn,Olten,16
+7,Arth-Goldau,Zürich HB,14
+7,Bellinzona,Zürich HB,14
+7,Biel/Bienne,Olten,13
+7,Olten,Zürich HB,13
+7,Zürich HB,Sargans,13
+7,Yverdon-les-Bains,Biel/Bienne,13
+7,Landquart,Zürich HB,12
+7,Sargans,Zürich HB,11
+7,Bern,Thun,11
+7,Biel/Bienne,Neuchâtel,11
+7,Neuchâtel,Yverdon-les-Bains,11
+7,Spiez,Bern,11
+7,Zug,Arth-Goldau,10
+7,Luzern,Arth-Goldau,10
+7,Solothurn,Zürich HB,10
+7,Arth-Goldau,Zug,10
+7,Zürich HB,Olten,9
+7,Biel/Bienne,Solothurn,9
+7,Biel/Bienne,Zürich HB,9
+7,Bern,Visp,9
+7,Visp,Thun,9
+7,Biel/Bienne,Delémont,8
+7,Winterthur,Zürich HB,8
+7,Olten,Biel/Bienne,8
+7,Morges,Yverdon-les-Bains,7
+7,Zürich HB,Biel/Bienne,7
+7,Oensingen,Olten,7
+7,Thun,Visp,7
+7,Visp,Spiez,7
+7,Bellinzona,Zug,7
+7,Luzern,Bellinzona,6
+7,Aarau,Zürich HB,6
+7,Zürich HB,Zug,6
+7,Lausanne,Bern,6
+7,Neuchâtel,Olten,6
+7,Spiez,Thun,6
+7,Sargans,Landquart,6
+7,Genève,Biel/Bienne,5
+7,Luzern,Olten,5
+7,Morges,Neuchâtel,5
+7,Visp,Bern,5
+7,Basel SBB,Delémont,5
+7,Biel/Bienne,Yverdon-les-Bains,5
+7,Zürich HB,Zürich HB,5
+7,Bellinzona,Luzern,5
+7,Aarau,Olten,4
+7,Lugano,Arth-Goldau,4
+7,Laufen,Biel/Bienne,4
+7,Biel/Bienne,Aarau,4
+7,Arth-Goldau,Luzern,4
+7,Basel SBB,Biel/Bienne,4
+7,Fribourg/Freiburg,Bern,4
+7,Luzern,Luzern,4
+7,Zürich HB,Weinfelden,4
+7,Zug,Zürich HB,4
+7,Zürich HB,Neuchâtel,4
+7,Zürich HB,Oensingen,4
+7,Zürich HB,Arth-Goldau,4
+7,Visp,Brig,3
+7,Aarau,Biel/Bienne,3
+7,Visp,Visp,3
+7,Zürich HB,Aarau,3
+7,Neuchâtel,Morges,3
+7,Flüelen,Bellinzona,3
+7,Olten,Aarau,3
+7,Lugano,Bellinzona,3
+7,Neuchâtel,Zürich HB,3
+7,Lugano,Zug,3
+7,Landquart,Sargans,3
+7,Zürich HB,Solothurn,3
+7,Biel/Bienne,Basel SBB,3
+7,Biel/Bienne,Genève,3
+7,Solothurn,Biel/Bienne,3
+7,Bern,Lausanne,3
+7,Bern,Spiez,3
+7,Olten,Luzern,3
+7,Bern,Bern,3
+7,Solothurn,Aarau,2
+7,Spiez,Visp,2
+7,Thun,Spiez,2
+7,Sargans,Chur,2
+7,Winterthur,Olten,2
+7,Oensingen,Biel/Bienne,2
+7,Lugano,Luzern,2
+7,Lugano,Zürich HB,2
+7,Luzern,Lugano,2
+7,Olten,Basel SBB,2
+7,Olten,Oensingen,2
+7,Yverdon-les-Bains,Genève,2
+7,Weinfelden,Frauenfeld,2
+7,Yverdon-les-Bains,Lausanne,2
+7,Yverdon-les-Bains,Olten,2
+7,Zürich HB,Bellinzona,2
+7,Zürich HB,Chur,2
+7,Genève,Zürich HB,2
+7,Aarau,Solothurn,2
+7,Bern,Olten,2
+7,Brig,Visp,2
+7,Chur,Zürich HB,2
+7,Delémont,Biel/Bienne,2
+7,Delémont,Basel SBB,2
+7,Frauenfeld,Zürich HB,2
+7,Arth-Goldau,Basel SBB,2
+7,Arth-Goldau,Flüelen,2
+7,Genève,Bern,2
+7,Genève,Morges,2
+7,Bern,Brig,2
+7,Frauenfeld,Bern,1
+7,St. Gallen,Zürich Flughafen,1
+7,Oensingen,Solothurn,1
+7,Olten,Neuchâtel,1
+7,Romanshorn,Bern,1
+7,Romanshorn,Weinfelden,1
+7,Romanshorn,Zürich HB,1
+7,St. Gallen,Aarau,1
+7,St. Gallen,Winterthur,1
+7,Solothurn,Oensingen,1
+7,Solothurn,Yverdon-les-Bains,1
+7,Thun,Thun,1
+7,Winterthur,Biel/Bienne,1
+7,Winterthur,Frauenfeld,1
+7,Winterthur,St. Gallen,1
+7,Winterthur,Weinfelden,1
+7,Weinfelden,Romanshorn,1
+7,Neuchâtel,Solothurn,1
+7,Neuchâtel,Genève,1
+7,Moutier,Laufen,1
+7,Moutier,Delémont,1
+7,Flüelen,Arth-Goldau,1
+7,Flüelen,Luzern,1
+7,Genève,Neuchâtel,1
+7,Genève,Yverdon-les-Bains,1
+7,Grenchen Nord,Basel SBB,1
+7,Grenchen Süd,Olten,1
+7,Interlaken Ost,Thun,1
+7,Laufen,Basel SBB,1
+7,Lausanne,Biel/Bienne,1
+7,Lausanne,Fribourg/Freiburg,1
+7,Lausanne,Neuchâtel,1
+7,Luzern,Basel SBB,1
+7,Morges,Biel/Bienne,1
+7,Morges,Genève,1
+7,Morges,Olten,1
+7,Weinfelden,Winterthur,1
+7,Yverdon-les-Bains,Solothurn,1
+7,Zug,Lugano,1
+7,Zürich Oerlikon,Wil SG,1
+7,Zürich HB,Basel SBB,1
+7,Zürich HB,Lugano,1
+7,Zürich HB,St. Gallen,1
+7,Zürich HB,Thun,1
+7,Zürich HB,Visp,1
+7,Zürich HB,Winterthur,1
+7,Zürich HB,Yverdon-les-Bains,1
+7,Zürich HB,Zürich Flughafen,1
+7,Frauenfeld,Winterthur,1
+7,Delémont,Moutier,1
+7,Chur,Sargans,1
+7,Biel/Bienne,Biel/Bienne,1
+7,Biel/Bienne,Lausanne,1
+7,Biel/Bienne,Morges,1
+7,Biel/Bienne,Moutier,1
+7,Biel/Bienne,Winterthur,1
+7,Bern,Basel SBB,1
+7,Brig,Spiez,1
+7,Brig,Thun,1
+7,Basel SBB,Bellinzona,1
+7,Basel SBB,Arth-Goldau,1
+7,Basel SBB,Laufen,1
+7,Basel SBB,Lugano,1
+7,Basel SBB,Olten,1
+7,Basel SBB,Zürich HB,1
+7,Chur,Landquart,1
+7,Bellinzona,Flüelen,1

@@ -1,0 +1,185 @@
+month,start_loc,end_loc,book_in_advance
+8,Bellinzona,Arth-Goldau,90
+8,Bern,Zürich HB,43
+8,Zürich HB,Bern,34
+8,Arth-Goldau,Bellinzona,32
+8,Solothurn,Olten,29
+8,Yverdon-les-Bains,Neuchâtel,24
+8,Olten,Solothurn,18
+8,Neuchâtel,Biel/Bienne,17
+8,Olten,Zürich HB,16
+8,Bellinzona,Zürich HB,16
+8,Thun,Bern,15
+8,Zürich HB,Olten,14
+8,Visp,Spiez,13
+8,Zürich HB,Landquart,13
+8,Neuchâtel,Yverdon-les-Bains,13
+8,Biel/Bienne,Olten,12
+8,Visp,Thun,11
+8,Arth-Goldau,Zug,10
+8,Biel/Bienne,Solothurn,10
+8,Lugano,Arth-Goldau,10
+8,Spiez,Thun,10
+8,Bellinzona,Zug,10
+8,Visp,Bern,10
+8,Fribourg/Freiburg,Bern,9
+8,Luzern,Arth-Goldau,9
+8,Biel/Bienne,Neuchâtel,9
+8,Bern,Thun,9
+8,Basel SBB,Biel/Bienne,8
+8,Arth-Goldau,Zürich HB,8
+8,Olten,Biel/Bienne,8
+8,Landquart,Zürich HB,8
+8,Sargans,Zürich HB,7
+8,Yverdon-les-Bains,Biel/Bienne,7
+8,Biel/Bienne,Yverdon-les-Bains,7
+8,Aarau,Zürich HB,7
+8,Arth-Goldau,Luzern,7
+8,Genève,Neuchâtel,6
+8,Zürich HB,Solothurn,6
+8,Zürich HB,Biel/Bienne,6
+8,Solothurn,Biel/Bienne,6
+8,Solothurn,Aarau,6
+8,Spiez,Visp,6
+8,Zürich HB,Sargans,6
+8,Spiez,Bern,5
+8,Luzern,Olten,5
+8,Bellinzona,Luzern,5
+8,Zürich HB,Arth-Goldau,5
+8,Zürich HB,Bellinzona,5
+8,Zürich HB,Aarau,5
+8,Zug,Arth-Goldau,5
+8,Zug,Zürich HB,4
+8,Yverdon-les-Bains,Olten,4
+8,Yverdon-les-Bains,Morges,4
+8,Yverdon-les-Bains,Genève,4
+8,Thun,Visp,4
+8,Aarau,Solothurn,4
+8,Morges,Biel/Bienne,4
+8,Biel/Bienne,Zürich HB,4
+8,Bern,Bern,4
+8,Lausanne,Yverdon-les-Bains,4
+8,Lausanne,Bern,4
+8,Delémont,Biel/Bienne,4
+8,Lugano,Zürich HB,4
+8,Zürich HB,Zug,3
+8,Lausanne,Biel/Bienne,3
+8,Zürich HB,Chur,3
+8,Olten,Luzern,3
+8,Basel SBB,Zürich HB,3
+8,Lausanne,Fribourg/Freiburg,3
+8,Genève,Yverdon-les-Bains,3
+8,Genève,Zürich HB,3
+8,Genève,Morges,3
+8,Olten,Aarau,3
+8,Luzern,Bellinzona,3
+8,Biel/Bienne,Basel SBB,3
+8,Biel/Bienne,Aarau,3
+8,Solothurn,Oensingen,3
+8,Biel/Bienne,Genève,3
+8,Olten,Oensingen,3
+8,Bern,Visp,3
+8,Olten,Olten,2
+8,Olten,Lausanne,2
+8,Solothurn,Zürich HB,2
+8,Solothurn,Grenchen Süd,2
+8,Sargans,Landquart,2
+8,Olten,Genève,2
+8,Bern,Fribourg/Freiburg,2
+8,Bern,Spiez,2
+8,Luzern,Basel SBB,2
+8,Lausanne,Zürich HB,2
+8,Basel SBB,Bern,2
+8,Basel SBB,Delémont,2
+8,Lausanne,Neuchâtel,2
+8,Delémont,Basel SBB,2
+8,Landquart,Sargans,2
+8,Flüelen,Bellinzona,2
+8,Landquart,Chur,2
+8,Lugano,Luzern,2
+8,Arth-Goldau,Lugano,2
+8,Genève,Biel/Bienne,2
+8,Genève,Lausanne,2
+8,Lugano,Bellinzona,2
+8,Biel/Bienne,Lausanne,2
+8,Oensingen,Olten,2
+8,Neuchâtel,Neuchâtel,2
+8,Neuchâtel,Genève,2
+8,Moutier,Basel SBB,2
+8,Aarau,Biel/Bienne,2
+8,Morges,Yverdon-les-Bains,2
+8,Morges,Neuchâtel,2
+8,Bellinzona,Flüelen,2
+8,Bellinzona,Olten,2
+8,Biel/Bienne,Grenchen Nord,2
+8,Grenchen Süd,Olten,2
+8,Zürich HB,Zürich HB,2
+8,Zürich HB,Winterthur,2
+8,Zug,Bellinzona,2
+8,Yverdon-les-Bains,Yverdon-les-Bains,2
+8,Yverdon-les-Bains,Lausanne,2
+8,Winterthur,Zürich HB,2
+8,Lausanne,Olten,1
+8,Lausanne,St. Gallen,1
+8,Luzern,Lugano,1
+8,Lausanne,Oensingen,1
+8,Thun,Interlaken Ost,1
+8,Lugano,Basel SBB,1
+8,Thun,Spiez,1
+8,Spiez,Spiez,1
+8,Olten,Neuchâtel,1
+8,Olten,Winterthur,1
+8,Thun,Thun,1
+8,Solothurn,Genève,1
+8,Olten,Lugano,1
+8,Romanshorn,Frauenfeld,1
+8,Zürich HB,Oensingen,1
+8,Zürich HB,Morges,1
+8,Neuchâtel,Olten,1
+8,Yverdon-les-Bains,Solothurn,1
+8,Neuchâtel,Solothurn,1
+8,Zürich HB,Romanshorn,1
+8,Zürich HB,Genève-Aéroport,1
+8,Zürich HB,Frauenfeld,1
+8,Romanshorn,Zürich HB,1
+8,Olten,Arth-Goldau,1
+8,Laufen,Moutier,1
+8,Yverdon-les-Bains,Zürich HB,1
+8,Morges,Morges,1
+8,Weinfelden,Winterthur,1
+8,St. Gallen,Zürich HB,1
+8,Olten,Yverdon-les-Bains,1
+8,Neuchâtel,Morges,1
+8,Morges,Zürich HB,1
+8,Moutier,Laufen,1
+8,Neuchâtel,Lausanne,1
+8,Zürich HB,St. Gallen,1
+8,Solothurn,Neuchâtel,1
+8,Laufen,Delémont,1
+8,Grenchen Nord,Delémont,1
+8,Brig,Thun,1
+8,Basel SBB,Arth-Goldau,1
+8,Basel SBB,Grenchen Nord,1
+8,Basel SBB,Laufen,1
+8,Basel SBB,Lugano,1
+8,Basel SBB,Luzern,1
+8,Basel SBB,Olten,1
+8,Chur,Zürich HB,1
+8,Delémont,Laufen,1
+8,Frauenfeld,Winterthur,1
+8,Frauenfeld,Zürich HB,1
+8,Fribourg/Freiburg,Zürich HB,1
+8,Arth-Goldau,Flüelen,1
+8,Arth-Goldau,Arth-Goldau,1
+8,Genève,Olten,1
+8,Grenchen Nord,Basel SBB,1
+8,Basel SBB,Bellinzona,1
+8,Brig,Bern,1
+8,Bern,Lausanne,1
+8,Aarau,Olten,1
+8,Amriswil,Frauenfeld,1
+8,Bellinzona,Basel SBB,1
+8,Biel/Bienne,Delémont,1
+8,Biel/Bienne,Laufen,1
+8,Biel/Bienne,Morges,1
+8,Bern,Genève,1

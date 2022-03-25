@@ -1,0 +1,164 @@
+month,start_loc,end_loc,book_in_advance
+5,Bellinzona,Arth-Goldau,75
+5,Bern,Zürich HB,35
+5,Arth-Goldau,Bellinzona,34
+5,Yverdon-les-Bains,Neuchâtel,28
+5,Olten,Solothurn,27
+5,Neuchâtel,Biel/Bienne,26
+5,Solothurn,Olten,21
+5,Biel/Bienne,Solothurn,19
+5,Zürich HB,Bern,18
+5,Solothurn,Biel/Bienne,15
+5,Biel/Bienne,Olten,14
+5,Thun,Bern,13
+5,Olten,Zürich HB,12
+5,Biel/Bienne,Neuchâtel,12
+5,Olten,Biel/Bienne,12
+5,Zürich HB,Solothurn,11
+5,Bern,Thun,11
+5,Solothurn,Zürich HB,10
+5,Luzern,Bellinzona,10
+5,Bellinzona,Zürich HB,10
+5,Bellinzona,Zug,9
+5,Zürich HB,Olten,9
+5,Sargans,Zürich HB,9
+5,Yverdon-les-Bains,Biel/Bienne,7
+5,Basel SBB,Biel/Bienne,7
+5,Fribourg/Freiburg,Bern,6
+5,Zürich HB,Biel/Bienne,6
+5,Basel SBB,Delémont,6
+5,Biel/Bienne,Yverdon-les-Bains,6
+5,Neuchâtel,Yverdon-les-Bains,6
+5,Visp,Spiez,6
+5,Aarau,Biel/Bienne,6
+5,Solothurn,Aarau,5
+5,Morges,Yverdon-les-Bains,5
+5,Visp,Thun,5
+5,Zürich HB,Basel SBB,5
+5,Zürich HB,Bellinzona,5
+5,Zug,Bellinzona,5
+5,Spiez,Thun,5
+5,Delémont,Basel SBB,5
+5,Flüelen,Bellinzona,5
+5,Zürich HB,Chur,4
+5,Yverdon-les-Bains,Morges,4
+5,Visp,Bern,4
+5,Zürich HB,Arth-Goldau,4
+5,Bellinzona,Luzern,4
+5,Biel/Bienne,Aarau,4
+5,Biel/Bienne,Basel SBB,4
+5,Zürich HB,Winterthur,4
+5,Biel/Bienne,Zürich HB,4
+5,Arth-Goldau,Zug,4
+5,Olten,Aarau,4
+5,Oensingen,Olten,4
+5,Morges,Neuchâtel,4
+5,Lausanne,Neuchâtel,4
+5,Lausanne,Bern,4
+5,Olten,Oensingen,4
+5,Laufen,Delémont,3
+5,Bellinzona,Flüelen,3
+5,Lausanne,Yverdon-les-Bains,3
+5,Zug,Zürich HB,3
+5,Neuchâtel,Zürich HB,3
+5,Aarau,Solothurn,3
+5,Zug,Zug,3
+5,Arth-Goldau,Zürich HB,3
+5,Yverdon-les-Bains,Genève,3
+5,Basel SBB,Bern,3
+5,Aarau,Olten,3
+5,Zürich HB,Sargans,3
+5,Spiez,Visp,3
+5,Laufen,Basel SBB,3
+5,Winterthur,Zürich HB,3
+5,Bellinzona,Lugano,3
+5,Zürich HB,Oensingen,3
+5,Spiez,Bern,3
+5,Zürich HB,Aarau,3
+5,Winterthur,St. Gallen,2
+5,Winterthur,Weinfelden,2
+5,Zürich HB,Grenchen Süd,2
+5,Bern,Olten,2
+5,Bern,Visp,2
+5,Bern,Winterthur,2
+5,Zug,Arth-Goldau,2
+5,Yverdon-les-Bains,Olten,2
+5,Basel SBB,Luzern,2
+5,Moutier,Delémont,2
+5,Morges,Genève,2
+5,Morges,Biel/Bienne,2
+5,Neuchâtel,Olten,2
+5,Grenchen Süd,Zürich HB,2
+5,Landquart,Zürich HB,2
+5,Lugano,Arth-Goldau,2
+5,Delémont,Biel/Bienne,2
+5,Solothurn,Oensingen,2
+5,Solothurn,Grenchen Süd,2
+5,Flüelen,Arth-Goldau,2
+5,Genève,Biel/Bienne,2
+5,Olten,Grenchen Süd,2
+5,Lugano,Bellinzona,2
+5,Biel/Bienne,Lausanne,2
+5,Aarau,Zürich HB,2
+5,Biel/Bienne,Moutier,2
+5,Flüelen,Flüelen,1
+5,Chur,Landquart,1
+5,Chur,Sargans,1
+5,Chur,Zürich HB,1
+5,Delémont,Laufen,1
+5,Delémont,Moutier,1
+5,Frauenfeld,Weinfelden,1
+5,Frauenfeld,Zürich HB,1
+5,Flüelen,Lugano,1
+5,Fribourg/Freiburg,Lausanne,1
+5,Arth-Goldau,Luzern,1
+5,Genève,Olten,1
+5,Genève,Yverdon-les-Bains,1
+5,Grenchen Nord,Laufen,1
+5,Grenchen Süd,Neuchâtel,1
+5,Grenchen Süd,Solothurn,1
+5,Basel SBB,Zürich HB,1
+5,Basel SBB,Moutier,1
+5,Basel SBB,Grenchen Nord,1
+5,Bern,Liestal,1
+5,Bellinzona,Bellinzona,1
+5,Biel/Bienne,Delémont,1
+5,Biel/Bienne,Grenchen Nord,1
+5,Biel/Bienne,Laufen,1
+5,Bern,Lausanne,1
+5,Lugano,Luzern,1
+5,Lugano,Zürich HB,1
+5,Locarno,Zürich HB,1
+5,St. Gallen,Winterthur,1
+5,Solothurn,Lausanne,1
+5,Solothurn,Neuchâtel,1
+5,Thun,Visp,1
+5,Winterthur,Aarau,1
+5,Winterthur,Biel/Bienne,1
+5,Winterthur,Solothurn,1
+5,Weinfelden,Winterthur,1
+5,Yverdon-les-Bains,Lausanne,1
+5,Zürich Oerlikon,Zürich HB,1
+5,Zürich HB,Landquart,1
+5,Zürich HB,Neuchâtel,1
+5,Zürich HB,St. Gallen,1
+5,Zürich HB,Zug,1
+5,St. Gallen,Zürich HB,1
+5,Olten,Yverdon-les-Bains,1
+5,Lausanne,Biel/Bienne,1
+5,Olten,Olten,1
+5,Liestal,Basel SBB,1
+5,Luzern,Arth-Goldau,1
+5,Luzern,Lugano,1
+5,Luzern,Olten,1
+5,Moutier,Laufen,1
+5,Neuchâtel,Genève,1
+5,Neuchâtel,Lausanne,1
+5,Neuchâtel,Solothurn,1
+5,Neuchâtel,Winterthur,1
+5,Oensingen,Grenchen Süd,1
+5,Oensingen,Solothurn,1
+5,Oensingen,Zürich HB,1
+5,Olten,Bern,1
+5,Olten,Basel SBB,1
+5,Olten,Neuchâtel,1

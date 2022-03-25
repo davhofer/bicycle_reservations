@@ -1,0 +1,150 @@
+month,start_loc,end_loc,book_in_advance
+4,Bellinzona,Arth-Goldau,37
+4,Zürich HB,Bern,27
+4,Bern,Zürich HB,26
+4,Arth-Goldau,Bellinzona,22
+4,Yverdon-les-Bains,Neuchâtel,18
+4,Biel/Bienne,Olten,16
+4,Solothurn,Olten,16
+4,Neuchâtel,Biel/Bienne,14
+4,Bellinzona,Zürich HB,12
+4,Olten,Biel/Bienne,11
+4,Olten,Solothurn,11
+4,Biel/Bienne,Neuchâtel,10
+4,Biel/Bienne,Solothurn,10
+4,Olten,Zürich HB,10
+4,Neuchâtel,Yverdon-les-Bains,10
+4,Aarau,Solothurn,10
+4,Zürich HB,Olten,9
+4,Yverdon-les-Bains,Biel/Bienne,8
+4,Bellinzona,Luzern,7
+4,Solothurn,Zürich HB,7
+4,Oensingen,Olten,6
+4,Zürich HB,Aarau,6
+4,Zürich HB,Bellinzona,6
+4,Basel SBB,Biel/Bienne,5
+4,Zürich HB,Solothurn,5
+4,Bellinzona,Zug,5
+4,Lausanne,Neuchâtel,4
+4,Genève,Yverdon-les-Bains,4
+4,Zürich HB,Biel/Bienne,4
+4,Luzern,Bellinzona,4
+4,Olten,Basel SBB,4
+4,Morges,Yverdon-les-Bains,4
+4,Aarau,Olten,4
+4,Biel/Bienne,Zürich HB,4
+4,Winterthur,Zürich HB,3
+4,Visp,Thun,3
+4,Zürich HB,Arth-Goldau,3
+4,Solothurn,Biel/Bienne,3
+4,Bellinzona,Flüelen,3
+4,Arth-Goldau,Zürich HB,3
+4,Biel/Bienne,Aarau,3
+4,Lausanne,Fribourg/Freiburg,3
+4,Lausanne,Biel/Bienne,3
+4,Arth-Goldau,Zug,3
+4,Olten,Aarau,3
+4,Aarau,Zürich HB,3
+4,Neuchâtel,Olten,3
+4,Flüelen,Arth-Goldau,3
+4,Frauenfeld,Zürich HB,2
+4,Frauenfeld,Winterthur,2
+4,Arth-Goldau,Luzern,2
+4,Lausanne,Yverdon-les-Bains,2
+4,Lausanne,Bern,2
+4,Laufen,Biel/Bienne,2
+4,Genève,Morges,2
+4,Basel SBB,Delémont,2
+4,Biel/Bienne,Moutier,2
+4,Bern,Thun,2
+4,Luzern,Arth-Goldau,2
+4,Biel/Bienne,Yverdon-les-Bains,2
+4,Biel/Bienne,Basel SBB,2
+4,Yverdon-les-Bains,Morges,2
+4,Winterthur,Frauenfeld,2
+4,Thun,Spiez,2
+4,Thun,Bern,2
+4,Solothurn,Aarau,2
+4,Yverdon-les-Bains,Olten,2
+4,Zürich HB,Winterthur,2
+4,Zürich HB,Zürich Flughafen,2
+4,Zürich HB,Frauenfeld,2
+4,Zug,Arth-Goldau,2
+4,Zug,Bellinzona,2
+4,Neuchâtel,Solothurn,2
+4,Moutier,Basel SBB,2
+4,Morges,Genève,2
+4,Zürich Flughafen,Weinfelden,1
+4,Zug,Zug,1
+4,Zug,Zürich HB,1
+4,Zürich HB,Basel SBB,1
+4,Zürich HB,Lugano,1
+4,Zürich HB,Lausanne,1
+4,Zürich HB,Neuchâtel,1
+4,Zürich HB,Oensingen,1
+4,Zürich HB,Wil SG,1
+4,Zürich HB,Zug,1
+4,Yverdon-les-Bains,Zürich HB,1
+4,Yverdon-les-Bains,Solothurn,1
+4,Weinfelden,Zürich HB,1
+4,Bellinzona,Lugano,1
+4,Biel/Bienne,Delémont,1
+4,Biel/Bienne,Grenchen Süd,1
+4,Biel/Bienne,Morges,1
+4,Biel/Bienne,Oensingen,1
+4,Bern,Basel SBB,1
+4,Bern,Lausanne,1
+4,Bern,Olten,1
+4,Basel SBB,Grenchen Nord,1
+4,Basel SBB,Laufen,1
+4,Basel SBB,Moutier,1
+4,Delémont,Biel/Bienne,1
+4,Delémont,Laufen,1
+4,Delémont,Moutier,1
+4,Frauenfeld,Weinfelden,1
+4,Fribourg/Freiburg,Bern,1
+4,Biel/Bienne,Biel/Bienne,1
+4,Bellinzona,Bellinzona,1
+4,Arth-Goldau,Arth-Goldau,1
+4,Amriswil,Winterthur,1
+4,Aarau,Biel/Bienne,1
+4,Aarau,Neuchâtel,1
+4,Amriswil,Frauenfeld,1
+4,Arth-Goldau,Flüelen,1
+4,Arth-Goldau,Lugano,1
+4,Weinfelden,Winterthur,1
+4,Oensingen,Solothurn,1
+4,Olten,Bellinzona,1
+4,Olten,Lausanne,1
+4,Olten,Luzern,1
+4,Olten,Neuchâtel,1
+4,Olten,Yverdon-les-Bains,1
+4,Romanshorn,Winterthur,1
+4,St. Gallen,Aarau,1
+4,St. Gallen,Zürich HB,1
+4,Solothurn,Neuchâtel,1
+4,Solothurn,Oensingen,1
+4,Spiez,Spiez,1
+4,Visp,Bern,1
+4,Visp,Spiez,1
+4,Winterthur,St. Gallen,1
+4,Winterthur,Solothurn,1
+4,Oensingen,Zürich HB,1
+4,Oensingen,Grenchen Süd,1
+4,Genève,Neuchâtel,1
+4,Neuchâtel,Zürich HB,1
+4,Genève,Solothurn,1
+4,Genève-Aéroport,Yverdon-les-Bains,1
+4,Grenchen Süd,Solothurn,1
+4,Lugano,Bellinzona,1
+4,Lugano,Arth-Goldau,1
+4,Lugano,Olten,1
+4,Lausanne,Zürich HB,1
+4,Morges,Biel/Bienne,1
+4,Morges,Neuchâtel,1
+4,Morges,Solothurn,1
+4,Moutier,Biel/Bienne,1
+4,Moutier,Delémont,1
+4,Neuchâtel,Aarau,1
+4,Neuchâtel,Lausanne,1
+4,Neuchâtel,Morges,1

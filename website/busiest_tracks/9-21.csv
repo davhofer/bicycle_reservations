@@ -1,0 +1,120 @@
+month,start_loc,end_loc,book_in_advance
+9,Bellinzona,Arth-Goldau,41
+9,Arth-Goldau,Bellinzona,13
+9,Yverdon-les-Bains,Neuchâtel,12
+9,Zürich HB,Landquart,12
+9,Bern,Zürich HB,12
+9,Solothurn,Olten,10
+9,Olten,Solothurn,10
+9,Sargans,Zürich HB,9
+9,Arth-Goldau,Zug,9
+9,Zürich HB,Sargans,8
+9,Zürich HB,Bern,8
+9,Arth-Goldau,Zürich HB,8
+9,Bern,Thun,8
+9,Thun,Bern,8
+9,Thun,Visp,7
+9,Landquart,Zürich HB,6
+9,Neuchâtel,Biel/Bienne,6
+9,Olten,Biel/Bienne,6
+9,Arth-Goldau,Luzern,6
+9,Olten,Zürich HB,6
+9,Biel/Bienne,Basel SBB,6
+9,Biel/Bienne,Olten,6
+9,Biel/Bienne,Solothurn,6
+9,Zug,Arth-Goldau,6
+9,Neuchâtel,Yverdon-les-Bains,5
+9,Luzern,Arth-Goldau,5
+9,Aarau,Zürich HB,5
+9,Spiez,Visp,5
+9,Visp,Bern,5
+9,Visp,Thun,5
+9,Zürich HB,Zug,5
+9,Bellinzona,Zürich HB,4
+9,Zürich HB,Aarau,4
+9,Luzern,Bellinzona,4
+9,Solothurn,Biel/Bienne,4
+9,Zug,Zürich HB,4
+9,Biel/Bienne,Delémont,3
+9,Thun,Thun,3
+9,Olten,Oensingen,3
+9,Genève,Yverdon-les-Bains,3
+9,Spiez,Thun,3
+9,Genève,Biel/Bienne,3
+9,Lausanne,Yverdon-les-Bains,3
+9,Lugano,Bellinzona,3
+9,Visp,Spiez,3
+9,Thun,Spiez,3
+9,Yverdon-les-Bains,Biel/Bienne,3
+9,Lausanne,Bern,2
+9,Lugano,Arth-Goldau,2
+9,Lugano,Zug,2
+9,Sargans,Landquart,2
+9,Oensingen,Olten,2
+9,Luzern,Olten,2
+9,Spiez,Bern,2
+9,Morges,Yverdon-les-Bains,2
+9,Genève,Morges,2
+9,Arth-Goldau,Basel SBB,2
+9,Arth-Goldau,Flüelen,2
+9,Arth-Goldau,Arth-Goldau,2
+9,Yverdon-les-Bains,Morges,2
+9,Yverdon-les-Bains,Lausanne,2
+9,Basel SBB,Lugano,2
+9,Aarau,Olten,2
+9,Zug,Bellinzona,2
+9,Biel/Bienne,Moutier,2
+9,Biel/Bienne,Yverdon-les-Bains,2
+9,Zürich HB,Chur,2
+9,Bern,Visp,2
+9,Bellinzona,Zug,2
+9,Bellinzona,Olten,2
+9,Basel SBB,Biel/Bienne,2
+9,Zürich HB,Zürich Flughafen,2
+9,Genève,Neuchâtel,2
+9,Bellinzona,Flüelen,1
+9,Olten,Genève,1
+9,Bellinzona,Luzern,1
+9,Bellinzona,Lugano,1
+9,Zürich HB,Arth-Goldau,1
+9,Zürich HB,Olten,1
+9,Olten,Basel SBB,1
+9,Biel/Bienne,Neuchâtel,1
+9,Bellinzona,Basel SBB,1
+9,Solothurn,Grenchen Süd,1
+9,Solothurn,Neuchâtel,1
+9,Yverdon-les-Bains,Yverdon-les-Bains,1
+9,Oensingen,Biel/Bienne,1
+9,Olten,Lausanne,1
+9,Basel SBB,Delémont,1
+9,Biel/Bienne,Grenchen Nord,1
+9,Sargans,Sargans,1
+9,Winterthur,Bern,1
+9,Biel/Bienne,Genève,1
+9,Biel/Bienne,Zürich HB,1
+9,Grenchen Süd,Biel/Bienne,1
+9,St. Gallen,Zürich HB,1
+9,Solothurn,Aarau,1
+9,Basel SBB,Grenchen Nord,1
+9,Spiez,Spiez,1
+9,Luzern,Lugano,1
+9,Lugano,Zürich HB,1
+9,Lugano,Flüelen,1
+9,Luzern,Basel SBB,1
+9,Thun,Brig,1
+9,Landquart,Sargans,1
+9,Genève,Olten,1
+9,Arth-Goldau,Lugano,1
+9,Flüelen,Lugano,1
+9,Grenchen Nord,Biel/Bienne,1
+9,Neuchâtel,Solothurn,1
+9,Neuchâtel,Olten,1
+9,Neuchâtel,Neuchâtel,1
+9,Solothurn,Solothurn,1
+9,Lausanne,Biel/Bienne,1
+9,Basel SBB,Luzern,1
+9,Chur,Landquart,1
+9,Delémont,Biel/Bienne,1
+9,Morges,Neuchâtel,1
+9,Morges,Genève,1
+9,Flüelen,Bellinzona,1

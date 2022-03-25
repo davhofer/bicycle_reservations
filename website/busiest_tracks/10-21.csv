@@ -1,0 +1,76 @@
+month,start_loc,end_loc,book_in_advance
+10,Bellinzona,Arth-Goldau,31
+10,Arth-Goldau,Bellinzona,15
+10,Zürich HB,Landquart,8
+10,Visp,Thun,7
+10,Visp,Spiez,6
+10,Bern,Zürich HB,5
+10,Thun,Bern,5
+10,Luzern,Bellinzona,5
+10,Spiez,Visp,5
+10,Bellinzona,Zug,5
+10,Olten,Biel/Bienne,4
+10,Spiez,Thun,4
+10,Zürich HB,Bern,4
+10,Zürich HB,Sargans,4
+10,Aarau,Solothurn,3
+10,Bellinzona,Flüelen,3
+10,Bellinzona,Luzern,3
+10,Bellinzona,Zürich HB,3
+10,Thun,Visp,3
+10,Visp,Visp,3
+10,Visp,Bern,3
+10,Yverdon-les-Bains,Biel/Bienne,3
+10,Arth-Goldau,Arth-Goldau,3
+10,Zug,Arth-Goldau,3
+10,Olten,Solothurn,3
+10,Zug,Bellinzona,3
+10,Arth-Goldau,Lugano,3
+10,Solothurn,Olten,2
+10,Spiez,Bern,2
+10,Spiez,Spiez,2
+10,Neuchâtel,Yverdon-les-Bains,2
+10,Lausanne,Fribourg/Freiburg,2
+10,Morges,Biel/Bienne,2
+10,Neuchâtel,Biel/Bienne,2
+10,Zürich HB,Aarau,2
+10,Yverdon-les-Bains,Neuchâtel,2
+10,Zug,Zürich HB,2
+10,Zürich HB,Bellinzona,2
+10,Thun,Spiez,2
+10,Thun,Thun,2
+10,Lugano,Zürich HB,2
+10,Biel/Bienne,Aarau,2
+10,Biel/Bienne,Solothurn,2
+10,Bern,Thun,2
+10,Flüelen,Bellinzona,2
+10,Flüelen,Arth-Goldau,2
+10,Genève,Neuchâtel,2
+10,Biel/Bienne,Neuchâtel,1
+10,Olten,Yverdon-les-Bains,1
+10,Neuchâtel,Zürich HB,1
+10,Lausanne,Bern,1
+10,Landquart,Zürich HB,1
+10,Yverdon-les-Bains,Olten,1
+10,Yverdon-les-Bains,Genève,1
+10,Brig,Visp,1
+10,Romanshorn,Weinfelden,1
+10,Genève,Yverdon-les-Bains,1
+10,Zürich HB,Lugano,1
+10,Zürich HB,Arth-Goldau,1
+10,Zürich HB,Chur,1
+10,Lugano,Zug,1
+10,Olten,Luzern,1
+10,Lugano,Arth-Goldau,1
+10,Lugano,Bellinzona,1
+10,Delémont,Basel SBB,1
+10,Arth-Goldau,Zug,1
+10,Arth-Goldau,Luzern,1
+10,Biel/Bienne,Moutier,1
+10,Neuchâtel,Lausanne,1
+10,Biel/Bienne,Olten,1
+10,Visp,Zürich HB,1
+10,Luzern,Arth-Goldau,1
+10,Aarau,Zürich HB,1
+10,Arth-Goldau,Zürich HB,1
+10,Zürich HB,Weinfelden,1
